@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista rzeczy do zrobienia</string>
+    <string name="button_add">"Dodaj do listy "</string>
+    <string name="textview_name_item">Pusty element listy</string>
+    <string name="hinit">Nazwa zadania</string>
+
+</resources>
